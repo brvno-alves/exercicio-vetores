@@ -1,11 +1,5 @@
 import java.util.Scanner;
 
-/**
- * Desenvolva um programa que leia 5 elementos de uma matriz A. Construir uma
- * matriz B de mesma dimensão com os elementos da matriz A multiplicados por 3 e
- * mostre a matriz B.
- */
-
 public class MatrizMultiplicacao {
 
     public static void main(String[] args) {

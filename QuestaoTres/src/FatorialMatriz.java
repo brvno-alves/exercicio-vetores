@@ -1,11 +1,5 @@
 import java.util.Scanner;
 
-/**
- * Desenvolva um programa que leia 5 elementos da Matriz A. Construir uma matriz B
- * de mesmo tipo, sendo que cada elemento da matriz B seja o fatorial do elemento
- * correspondente da matriz A.
- */
-
 public class FatorialMatriz {
 
     public static void main(String[] args) {
